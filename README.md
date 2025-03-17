@@ -60,7 +60,7 @@ keine weiteren Hinweise
 Änderungsgeschichte
 
 Version 1
-Name der Autorin: Simon Schwarzer
+Name der Autor: Simon Schwarzer
 Datum: 17.03.2025
 
 
